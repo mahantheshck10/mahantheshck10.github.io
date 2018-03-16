@@ -1,0 +1,83 @@
+body {
+    background: #ffffff url("img_tree.png") no-repeat right top;
+}
+
+h4{
+	color:white;
+	background-color:#123234;
+	
+}
+
+
+h7{
+	color:white;
+	background-color:#123234;
+}
+h2{
+	color:black;
+}
+
+h3{
+	color:black;
+	
+}
+h5{
+	color:white;
+	background:#333333;
+	width:100px;
+	height:30px;
+
+	padding:10px;
+	border-radius:10px;
+}
+table, th ,td {
+	
+	border:1px solid black;
+	background-color:#7fcdcd;
+	text-align:center;
+
+
+	
+}
+table{
+	border-radius: 40px;
+}
+article{
+	background-color: #ff6600;
+	border-radius: 30px;
+	text-align:center;
+}
+
+.mybox {
+	background-color: #ffff89; 
+	min-height: 100px; 
+	width:100%;
+	margin-top:40px; 
+	margin-bottom: 10px; 
+	padding: 20px 50px 20px 50px;
+	border-radius:40px;
+}
+.mybox1{
+	
+	width:55%;
+	padding:10px 20px 10px 20px;
+		background-color: #55acee;
+		border-radius:60px;
+		min-height:80%;
+
+	
+
+}
+.mybox3{
+	background-color:#7fcdcd;
+	min-height: 300px;
+	width:880px;
+	margin:20px 10px 20px -80px;
+	padding:40px 0px 40px 10px;
+	border-radius:100px;
+
+}
+.mymaha{
+	background-color:#581845;
+	min-height: 100%;
+}
